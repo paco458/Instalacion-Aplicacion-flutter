@@ -207,11 +207,11 @@ Resultado esperado:
 
 ---
 
-# 12. Crear un proyecto Flutter
+# 12. Crear un proyecto de prueba
 
 ```bash
-flutter create hola_flutter
-cd hola_flutter
+flutter create hola
+cd hola
 ```
 
 Ejecutar en Linux:
